@@ -10,12 +10,13 @@ export default {
 
   data() {
     return {
-      aaa: "222"
+      aaa: "222",
+      bbb: "333"
     }
   },
 
   created() {
-    let aaaaa = '3333'
+    let aaaaa = "3333"
     console.log(aaaaa)
   }
 }
