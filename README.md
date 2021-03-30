@@ -1,2 +1,3 @@
-# vue-tamplate
-前端代码流程模版
+# Automatic inspection
+
+探索平台 - 自动巡检

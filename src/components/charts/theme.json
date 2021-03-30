@@ -1,0 +1,27 @@
+{
+  "backgroundColor": "rgba(0,0,0,0)",
+  "bar": {
+    "itemStyle": {
+        "normal": {
+            "barBorderWidth": 0,
+            "barBorderColor": "#ccc"
+        },
+        "emphasis": {
+            "barBorderWidth": 0,
+            "barBorderColor": "#ccc"
+        }
+    }
+  },
+  "pie": {
+      "itemStyle": {
+          "normal": {
+              "borderWidth": 0,
+              "borderColor": "#ccc"
+          },
+          "emphasis": {
+              "borderWidth": 0,
+              "borderColor": "#ccc"
+          }
+      }
+  }
+}
